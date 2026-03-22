@@ -5,7 +5,7 @@
 ## Descripción ##
 *Creación de CV online*
 
-## Prerrequisitos""
+## Prerrequisitos ##
 *Github pages*
 
 *HTML language*
